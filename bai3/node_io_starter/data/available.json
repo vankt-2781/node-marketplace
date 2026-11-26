@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "title": "Laptop Dell XPS 13",
+    "price": 18500000,
+    "status": "available",
+    "sellerId": "u1"
+  },
+  {
+    "id": "p2",
+    "title": "Sach Clean Code",
+    "price": 150000,
+    "status": "available",
+    "sellerId": "u2"
+  },
+  {
+    "id": "p3",
+    "title": "Ban phim co Keychron K2",
+    "price": 1800000,
+    "status": "available",
+    "sellerId": "u1"
+  },
+  {
+    "id": "p5",
+    "title": "Chuot Logitech MX Master 3",
+    "price": 1500000,
+    "status": "available",
+    "sellerId": "u2"
+  },
+  {
+    "id": "p7",
+    "title": "Ghe cong thai hoc",
+    "price": 2700000,
+    "status": "available",
+    "sellerId": "u1"
+  },
+  {
+    "id": "p8",
+    "title": "Sach Designing Data-Intensive Applications",
+    "price": 450000,
+    "status": "available",
+    "sellerId": "u2"
+  }
+]
