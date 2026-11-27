@@ -3,3 +3,4 @@ dist/
 bai3/node_io_starter/data/orders.ndjson
 bai3/node_io_starter/data/completed.ndjson
 .env
+coverage/
